@@ -1,0 +1,5646 @@
+{
+    "bumen": [
+        {
+            "bianhao": "D1",
+            "biaoqian": [
+                "swim",
+                "read",
+                "sing",
+                "cook"
+            ],
+            "huodong_shijian": [
+                "Tue:14:00-15:40",
+                "Sat:19:00-21:00"
+            ],
+            "naxin_renshu": 14
+        },
+        {
+            "bianhao": "D2",
+            "biaoqian": [
+                "dance",
+                "sing",
+                "cook",
+                "ride"
+            ],
+            "huodong_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D3",
+            "biaoqian": [
+                "swim"
+            ],
+            "huodong_shijian": [
+                "Tue:16:00-17:40",
+                "Sun:8:20-10:00",
+                "Fri:8:20-10:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D4",
+            "biaoqian": [
+                "computer",
+                "dance"
+            ],
+            "huodong_shijian": [
+                "Tue:10:20-12:00",
+                "Sat:14:00-15:40",
+                "Wen:8:20-10:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D5",
+            "biaoqian": [
+                "dance",
+                "read",
+                "cook",
+                "swim",
+                "sing"
+            ],
+            "huodong_shijian": [
+                "Tue:8:20-10:00",
+                "Sun:8:20-10:00",
+                "Sun:10:20-12:00"
+            ],
+            "naxin_renshu": 10
+        },
+        {
+            "bianhao": "D6",
+            "biaoqian": [
+                "dance",
+                "write",
+                "paint",
+                "cook",
+                "ride"
+            ],
+            "huodong_shijian": [
+                "Thu:10:20-12:00"
+            ],
+            "naxin_renshu": 10
+        },
+        {
+            "bianhao": "D7",
+            "biaoqian": [
+                "cook"
+            ],
+            "huodong_shijian": [
+                "Tue:8:20-10:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D8",
+            "biaoqian": [
+                "swim",
+                "sing",
+                "paint",
+                "write"
+            ],
+            "huodong_shijian": [
+                "Sun:19:00-21:00",
+                "Tue:10:20-12:00",
+                "Sat:16:00-17:40"
+            ],
+            "naxin_renshu": 11
+        },
+        {
+            "bianhao": "D9",
+            "biaoqian": [
+                "dance",
+                "read"
+            ],
+            "huodong_shijian": [
+                "Thu:10:20-12:00",
+                "Mon:19:00-21:00",
+                "Sat:19:00-21:00"
+            ],
+            "naxin_renshu": 12
+        },
+        {
+            "bianhao": "D10",
+            "biaoqian": [
+                "ride",
+                "sing",
+                "read"
+            ],
+            "huodong_shijian": [
+                "Sat:19:00-21:00",
+                "Tue:19:00-21:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D11",
+            "biaoqian": [
+                "dance",
+                "computer",
+                "ride"
+            ],
+            "huodong_shijian": [
+                "Sun:8:20-10:00",
+                "Wen:16:00-17:40"
+            ],
+            "naxin_renshu": 13
+        },
+        {
+            "bianhao": "D12",
+            "biaoqian": [
+                "computer",
+                "swim",
+                "ride",
+                "read",
+                "basketball"
+            ],
+            "huodong_shijian": [
+                "Wen:16:00-17:40",
+                "Fri:10:20-12:00"
+            ],
+            "naxin_renshu": 14
+        },
+        {
+            "bianhao": "D13",
+            "biaoqian": [
+                "swim",
+                "computer",
+                "read"
+            ],
+            "huodong_shijian": [
+                "Thu:10:20-12:00",
+                "Tue:16:00-17:40",
+                "Mon:14:00-15:40"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D14",
+            "biaoqian": [
+                "sing"
+            ],
+            "huodong_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D15",
+            "biaoqian": [
+                "read",
+                "swim",
+                "basketball",
+                "paint"
+            ],
+            "huodong_shijian": [
+                "Mon:10:20-12:00",
+                "Tue:19:00-21:00",
+                "Fri:14:00-15:40"
+            ],
+            "naxin_renshu": 11
+        },
+        {
+            "bianhao": "D16",
+            "biaoqian": [
+                "swim",
+                "ride",
+                "dance"
+            ],
+            "huodong_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "naxin_renshu": 11
+        },
+        {
+            "bianhao": "D17",
+            "biaoqian": [
+                "write",
+                "basketball"
+            ],
+            "huodong_shijian": [
+                "Fri:8:20-10:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D18",
+            "biaoqian": [
+                "computer"
+            ],
+            "huodong_shijian": [
+                "Thu:19:00-21:00"
+            ],
+            "naxin_renshu": 13
+        },
+        {
+            "bianhao": "D19",
+            "biaoqian": [
+                "ride"
+            ],
+            "huodong_shijian": [
+                "Tue:14:00-15:40",
+                "Wen:10:20-12:00"
+            ],
+            "naxin_renshu": 15
+        },
+        {
+            "bianhao": "D20",
+            "biaoqian": [
+                "write"
+            ],
+            "huodong_shijian": [
+                "Sun:10:20-12:00",
+                "Thu:16:00-17:40",
+                "Fri:8:20-10:00"
+            ],
+            "naxin_renshu": 14
+        }
+    ],
+    "student": [
+        {
+            "biaoqian": [
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Sun:8:20-10:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320000,
+            "zhiyuan": [
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "sing",
+                "computer",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320001,
+            "zhiyuan": [
+                "D4",
+                "D2",
+                "D11",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320002,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "basketball",
+                "write",
+                "ride"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320003,
+            "zhiyuan": [
+                "D19",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320004,
+            "zhiyuan": [
+                "D10",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "ride",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Sat:10:20-12:00",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320005,
+            "zhiyuan": [
+                "D9",
+                "D2",
+                "D16",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "computer",
+                "ride",
+                "basketball",
+                "swim"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Sun:19:00-21:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320006,
+            "zhiyuan": [
+                "D3",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320007,
+            "zhiyuan": [
+                "D13",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320008,
+            "zhiyuan": [
+                "D4",
+                "D17",
+                "D8",
+                "D15",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "computer",
+                "dance",
+                "sing",
+                "cook"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Mon:8:20-10:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320009,
+            "zhiyuan": [
+                "D7",
+                "D15",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320010,
+            "zhiyuan": [
+                "D19",
+                "D20",
+                "D9",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "swim",
+                "read",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320011,
+            "zhiyuan": [
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "ride",
+                "paint",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320012,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "basketball",
+                "cook",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00",
+                "Thu:16:00-17:40",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320013,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "write",
+                "computer",
+                "sing"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320014,
+            "zhiyuan": [
+                "D2",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "sing",
+                "write",
+                "paint",
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320015,
+            "zhiyuan": [
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00",
+                "Mon:10:20-12:00"
+            ],
+            "xuehao": 170320016,
+            "zhiyuan": [
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00"
+            ],
+            "xuehao": 170320017,
+            "zhiyuan": [
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320018,
+            "zhiyuan": [
+                "D18",
+                "D3",
+                "D19",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "paint"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320019,
+            "zhiyuan": [
+                "D13",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "read",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320020,
+            "zhiyuan": [
+                "D5",
+                "D2",
+                "D3",
+                "D15",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320021,
+            "zhiyuan": [
+                "D7",
+                "D13",
+                "D16",
+                "D11",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Thu:10:20-12:00"
+            ],
+            "xuehao": 170320022,
+            "zhiyuan": [
+                "D6",
+                "D2",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "sing",
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320023,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "cook",
+                "swim",
+                "ride",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320024,
+            "zhiyuan": [
+                "D13",
+                "D10",
+                "D4",
+                "D14",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Mon:16:00-17:40",
+                "Sun:14:00-15:40"
+            ],
+            "xuehao": 170320025,
+            "zhiyuan": [
+                "D19",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "computer",
+                "write"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Thu:19:00-21:00",
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320026,
+            "zhiyuan": [
+                "D6",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320027,
+            "zhiyuan": [
+                "D18",
+                "D2",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "ride",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00",
+                "Fri:14:00-15:40",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320028,
+            "zhiyuan": [
+                "D6",
+                "D16",
+                "D3",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "sing",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320029,
+            "zhiyuan": [
+                "D16",
+                "D15",
+                "D17",
+                "D11",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "swim",
+                "basketball",
+                "paint"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Fri:14:00-15:40",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320030,
+            "zhiyuan": [
+                "D9",
+                "D10",
+                "D4",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "cook",
+                "swim"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00",
+                "Thu:10:20-12:00"
+            ],
+            "xuehao": 170320031,
+            "zhiyuan": [
+                "D11",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320032,
+            "zhiyuan": [
+                "D14",
+                "D19",
+                "D11",
+                "D15",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "dance",
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320033,
+            "zhiyuan": [
+                "D9",
+                "D13",
+                "D19",
+                "D1",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320034,
+            "zhiyuan": [
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "computer"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320035,
+            "zhiyuan": [
+                "D11",
+                "D6",
+                "D19",
+                "D17",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320036,
+            "zhiyuan": [
+                "D9",
+                "D5",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "computer",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Tue:19:00-21:00",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320037,
+            "zhiyuan": [
+                "D5",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Fri:14:00-15:40",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320038,
+            "zhiyuan": [
+                "D3",
+                "D7",
+                "D14",
+                "D17",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "swim",
+                "sing",
+                "paint",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Mon:14:00-15:40",
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320039,
+            "zhiyuan": [
+                "D19",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "sing",
+                "dance"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320040,
+            "zhiyuan": [
+                "D2",
+                "D6",
+                "D10",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "paint",
+                "read",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Thu:8:20-10:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320041,
+            "zhiyuan": [
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Tue:16:00-17:40",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320042,
+            "zhiyuan": [
+                "D15",
+                "D5",
+                "D18",
+                "D16",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "computer",
+                "cook",
+                "paint",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320043,
+            "zhiyuan": [
+                "D2",
+                "D8",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "swim",
+                "write",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320044,
+            "zhiyuan": [
+                "D11",
+                "D2",
+                "D15",
+                "D17",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "write",
+                "sing",
+                "cook",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Tue:8:20-10:00",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320045,
+            "zhiyuan": [
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320046,
+            "zhiyuan": [
+                "D7",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "paint",
+                "swim",
+                "sing",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320047,
+            "zhiyuan": [
+                "D19",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320048,
+            "zhiyuan": [
+                "D20",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "paint",
+                "ride"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Sun:10:20-12:00",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320049,
+            "zhiyuan": [
+                "D9",
+                "D14",
+                "D13",
+                "D12",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "sing",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Sun:10:20-12:00",
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320050,
+            "zhiyuan": [
+                "D10",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "sing",
+                "dance",
+                "write",
+                "read"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320051,
+            "zhiyuan": [
+                "D11",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "paint",
+                "sing"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Sat:8:20-10:00"
+            ],
+            "xuehao": 170320052,
+            "zhiyuan": [
+                "D4",
+                "D12",
+                "D2",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "ride",
+                "sing"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320053,
+            "zhiyuan": [
+                "D14",
+                "D9",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "read",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Mon:14:00-15:40",
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320054,
+            "zhiyuan": [
+                "D7",
+                "D11",
+                "D12",
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "sing",
+                "write",
+                "cook",
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Thu:10:20-12:00",
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320055,
+            "zhiyuan": [
+                "D15",
+                "D20",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320056,
+            "zhiyuan": [
+                "D19",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320057,
+            "zhiyuan": [
+                "D1",
+                "D11",
+                "D13",
+                "D7",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "read",
+                "swim",
+                "write",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Fri:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320058,
+            "zhiyuan": [
+                "D4",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Thu:16:00-17:40",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320059,
+            "zhiyuan": [
+                "D11",
+                "D19",
+                "D9",
+                "D20",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320060,
+            "zhiyuan": [
+                "D4",
+                "D3",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00",
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320061,
+            "zhiyuan": [
+                "D20",
+                "D16",
+                "D13",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "paint"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320062,
+            "zhiyuan": [
+                "D10",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "ride",
+                "sing"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320063,
+            "zhiyuan": [
+                "D3",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "cook",
+                "basketball",
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320064,
+            "zhiyuan": [
+                "D18",
+                "D15",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320065,
+            "zhiyuan": [
+                "D11",
+                "D8",
+                "D18",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "paint",
+                "write",
+                "sing",
+                "swim"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sat:16:00-17:40",
+                "Sun:16:00-17:40",
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320066,
+            "zhiyuan": [
+                "D9",
+                "D16",
+                "D7",
+                "D20",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "sing",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320067,
+            "zhiyuan": [
+                "D17",
+                "D16",
+                "D10",
+                "D5",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "computer",
+                "dance",
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Sun:19:00-21:00",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320068,
+            "zhiyuan": [
+                "D6",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "cook",
+                "basketball",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320069,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "swim",
+                "read",
+                "cook",
+                "sing"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40",
+                "Thu:8:20-10:00"
+            ],
+            "xuehao": 170320070,
+            "zhiyuan": [
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "cook"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Sun:8:20-10:00",
+                "Thu:8:20-10:00"
+            ],
+            "xuehao": 170320071,
+            "zhiyuan": [
+                "D2",
+                "D11",
+                "D4",
+                "D15",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "computer"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:8:20-10:00",
+                "Thu:16:00-17:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320072,
+            "zhiyuan": [
+                "D17",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "computer",
+                "write",
+                "dance"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40",
+                "Mon:14:00-15:40",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320073,
+            "zhiyuan": [
+                "D9",
+                "D16",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "dance",
+                "swim",
+                "ride"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320074,
+            "zhiyuan": [
+                "D5",
+                "D7",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "computer",
+                "cook",
+                "read",
+                "sing"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320075,
+            "zhiyuan": [
+                "D7",
+                "D1",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320076,
+            "zhiyuan": [
+                "D16",
+                "D18",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:8:20-10:00"
+            ],
+            "xuehao": 170320077,
+            "zhiyuan": [
+                "D15",
+                "D20",
+                "D19",
+                "D2",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "paint",
+                "cook"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320078,
+            "zhiyuan": [
+                "D12",
+                "D2",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320079,
+            "zhiyuan": [
+                "D20",
+                "D9",
+                "D19",
+                "D13",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320080,
+            "zhiyuan": [
+                "D17",
+                "D8",
+                "D11",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320081,
+            "zhiyuan": [
+                "D14",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40",
+                "Sat:10:20-12:00",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320082,
+            "zhiyuan": [
+                "D20",
+                "D4",
+                "D8",
+                "D13",
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "read",
+                "paint"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Tue:14:00-15:40",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320083,
+            "zhiyuan": [
+                "D14",
+                "D5",
+                "D17",
+                "D10",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Sun:14:00-15:40",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320084,
+            "zhiyuan": [
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "write",
+                "computer",
+                "sing",
+                "swim"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320085,
+            "zhiyuan": [
+                "D16",
+                "D5",
+                "D15",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Thu:8:20-10:00",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320086,
+            "zhiyuan": [
+                "D16",
+                "D14",
+                "D19",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "cook",
+                "read",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320087,
+            "zhiyuan": [
+                "D7",
+                "D1",
+                "D11",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "sing",
+                "dance"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320088,
+            "zhiyuan": [
+                "D17",
+                "D1",
+                "D3",
+                "D6",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "computer"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Sun:16:00-17:40",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320089,
+            "zhiyuan": [
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "ride",
+                "computer",
+                "swim",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Wen:19:00-21:00",
+                "Thu:10:20-12:00"
+            ],
+            "xuehao": 170320090,
+            "zhiyuan": [
+                "D6",
+                "D15",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "write",
+                "basketball",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320091,
+            "zhiyuan": [
+                "D17",
+                "D14",
+                "D16",
+                "D8",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320092,
+            "zhiyuan": [
+                "D17",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Tue:14:00-15:40",
+                "Sun:19:00-21:00"
+            ],
+            "xuehao": 170320093,
+            "zhiyuan": [
+                "D16",
+                "D8",
+                "D18",
+                "D9",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00",
+                "Tue:14:00-15:40",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320094,
+            "zhiyuan": [
+                "D19",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "swim",
+                "basketball",
+                "cook"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Wen:19:00-21:00",
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320095,
+            "zhiyuan": [
+                "D17",
+                "D6",
+                "D8",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "basketball",
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320096,
+            "zhiyuan": [
+                "D8",
+                "D11",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "computer",
+                "dance",
+                "sing"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Thu:16:00-17:40",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320097,
+            "zhiyuan": [
+                "D15",
+                "D17",
+                "D6",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Fri:14:00-15:40",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320098,
+            "zhiyuan": [
+                "D8",
+                "D1",
+                "D3",
+                "D15",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "computer",
+                "dance",
+                "write",
+                "swim"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320099,
+            "zhiyuan": [
+                "D18",
+                "D6",
+                "D2",
+                "D3",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "swim",
+                "write",
+                "paint"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320100,
+            "zhiyuan": [
+                "D7",
+                "D2",
+                "D17",
+                "D16",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook",
+                "computer",
+                "swim"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320101,
+            "zhiyuan": [
+                "D5",
+                "D16",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Sat:8:20-10:00"
+            ],
+            "xuehao": 170320102,
+            "zhiyuan": [
+                "D4",
+                "D18",
+                "D17",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "write",
+                "dance",
+                "read",
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320103,
+            "zhiyuan": [
+                "D8",
+                "D2",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:8:20-10:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320104,
+            "zhiyuan": [
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "dance",
+                "ride",
+                "swim"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:10:20-12:00",
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320105,
+            "zhiyuan": [
+                "D5",
+                "D4",
+                "D13",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "sing",
+                "computer"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320106,
+            "zhiyuan": [
+                "D14",
+                "D12",
+                "D17",
+                "D4",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "sing",
+                "paint",
+                "swim",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320107,
+            "zhiyuan": [
+                "D20",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Mon:16:00-17:40",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320108,
+            "zhiyuan": [
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "swim",
+                "paint",
+                "sing",
+                "cook"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320109,
+            "zhiyuan": [
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "swim",
+                "ride",
+                "paint",
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Sun:16:00-17:40",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320110,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "ride",
+                "swim"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:16:00-17:40",
+                "Wen:8:20-10:00",
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320111,
+            "zhiyuan": [
+                "D2",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "read",
+                "computer",
+                "swim",
+                "dance"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320112,
+            "zhiyuan": [
+                "D9",
+                "D1",
+                "D2",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320113,
+            "zhiyuan": [
+                "D14",
+                "D18",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "sing",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Sun:19:00-21:00",
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320114,
+            "zhiyuan": [
+                "D2",
+                "D13",
+                "D10",
+                "D19",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320115,
+            "zhiyuan": [
+                "D1",
+                "D13",
+                "D16",
+                "D15",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "swim",
+                "read",
+                "dance"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320116,
+            "zhiyuan": [
+                "D11",
+                "D19",
+                "D10",
+                "D4",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "ride",
+                "swim",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320117,
+            "zhiyuan": [
+                "D4",
+                "D11",
+                "D5",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Sat:16:00-17:40",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320118,
+            "zhiyuan": [
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320119,
+            "zhiyuan": [
+                "D18",
+                "D8",
+                "D2",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "sing",
+                "write",
+                "ride"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320120,
+            "zhiyuan": [
+                "D11",
+                "D15",
+                "D13",
+                "D1",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "computer",
+                "dance"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320121,
+            "zhiyuan": [
+                "D20",
+                "D19",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Wen:19:00-21:00",
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320122,
+            "zhiyuan": [
+                "D8",
+                "D18",
+                "D9",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "dance",
+                "cook",
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:8:20-10:00",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320123,
+            "zhiyuan": [
+                "D9",
+                "D16",
+                "D19",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "write",
+                "computer",
+                "read"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320124,
+            "zhiyuan": [
+                "D4",
+                "D13",
+                "D7",
+                "D17",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "paint",
+                "computer"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320125,
+            "zhiyuan": [
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "read",
+                "ride",
+                "dance",
+                "cook"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Sun:14:00-15:40",
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320126,
+            "zhiyuan": [
+                "D13",
+                "D6",
+                "D2",
+                "D8",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "swim",
+                "write",
+                "dance",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320127,
+            "zhiyuan": [
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "paint",
+                "sing",
+                "basketball",
+                "swim"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:8:20-10:00",
+                "Mon:19:00-21:00",
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320128,
+            "zhiyuan": [
+                "D9",
+                "D5",
+                "D18",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Mon:16:00-17:40",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320129,
+            "zhiyuan": [
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320130,
+            "zhiyuan": [
+                "D3",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "write",
+                "swim",
+                "basketball",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40",
+                "Sat:19:00-21:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320131,
+            "zhiyuan": [
+                "D17",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "sing",
+                "swim",
+                "read",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320132,
+            "zhiyuan": [
+                "D20",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "computer",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Thu:10:20-12:00",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320133,
+            "zhiyuan": [
+                "D2",
+                "D19",
+                "D7",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "paint",
+                "ride"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320134,
+            "zhiyuan": [
+                "D10",
+                "D13",
+                "D7",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320135,
+            "zhiyuan": [
+                "D13",
+                "D17",
+                "D3",
+                "D11",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320136,
+            "zhiyuan": [
+                "D6",
+                "D5",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "sing",
+                "write",
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320137,
+            "zhiyuan": [
+                "D18",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320138,
+            "zhiyuan": [
+                "D15",
+                "D19",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "computer"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320139,
+            "zhiyuan": [
+                "D7",
+                "D2",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "paint"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00",
+                "Mon:19:00-21:00",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320140,
+            "zhiyuan": [
+                "D14",
+                "D17",
+                "D5",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00",
+                "Wen:16:00-17:40",
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320141,
+            "zhiyuan": [
+                "D13",
+                "D1",
+                "D18",
+                "D8",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Fri:19:00-21:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320142,
+            "zhiyuan": [
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "swim",
+                "sing",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40"
+            ],
+            "xuehao": 170320143,
+            "zhiyuan": [
+                "D8",
+                "D18",
+                "D6",
+                "D20",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "paint",
+                "sing",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00"
+            ],
+            "xuehao": 170320144,
+            "zhiyuan": [
+                "D20",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "write",
+                "basketball",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320145,
+            "zhiyuan": [
+                "D9",
+                "D11",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "ride",
+                "computer",
+                "cook",
+                "paint"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320146,
+            "zhiyuan": [
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "write",
+                "swim",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Fri:19:00-21:00",
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320147,
+            "zhiyuan": [
+                "D10",
+                "D4",
+                "D17",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "sing",
+                "cook",
+                "read",
+                "dance"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320148,
+            "zhiyuan": [
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "computer",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320149,
+            "zhiyuan": [
+                "D16",
+                "D13",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "read",
+                "swim"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Wen:10:20-12:00",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320150,
+            "zhiyuan": [
+                "D19",
+                "D7",
+                "D11",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "ride",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320151,
+            "zhiyuan": [
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "basketball",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Wen:8:20-10:00",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320152,
+            "zhiyuan": [
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00"
+            ],
+            "xuehao": 170320153,
+            "zhiyuan": [
+                "D17",
+                "D19",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320154,
+            "zhiyuan": [
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "sing",
+                "cook",
+                "paint",
+                "dance"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:10:20-12:00"
+            ],
+            "xuehao": 170320155,
+            "zhiyuan": [
+                "D3",
+                "D16",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "read",
+                "sing"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:10:20-12:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320156,
+            "zhiyuan": [
+                "D18",
+                "D7",
+                "D4",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320157,
+            "zhiyuan": [
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320158,
+            "zhiyuan": [
+                "D18",
+                "D17",
+                "D8",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Sun:14:00-15:40"
+            ],
+            "xuehao": 170320159,
+            "zhiyuan": [
+                "D3",
+                "D19",
+                "D10",
+                "D4",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320160,
+            "zhiyuan": [
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "ride",
+                "cook",
+                "write",
+                "swim"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Mon:19:00-21:00",
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320161,
+            "zhiyuan": [
+                "D5",
+                "D2",
+                "D11",
+                "D16",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "cook",
+                "sing",
+                "ride"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Tue:8:20-10:00",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320162,
+            "zhiyuan": [
+                "D1",
+                "D9",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "basketball",
+                "cook",
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:14:00-15:40",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320163,
+            "zhiyuan": [
+                "D15",
+                "D16",
+                "D8",
+                "D12",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "sing",
+                "write",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320164,
+            "zhiyuan": [
+                "D1",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320165,
+            "zhiyuan": [
+                "D18",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "sing",
+                "paint"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00",
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320166,
+            "zhiyuan": [
+                "D11",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "read",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Wen:10:20-12:00",
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320167,
+            "zhiyuan": [
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00"
+            ],
+            "xuehao": 170320168,
+            "zhiyuan": [
+                "D6",
+                "D19",
+                "D1",
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:10:20-12:00",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320169,
+            "zhiyuan": [
+                "D7",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "computer",
+                "paint",
+                "read"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Sat:8:20-10:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320170,
+            "zhiyuan": [
+                "D1",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "sing",
+                "write"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320171,
+            "zhiyuan": [
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook",
+                "computer",
+                "ride"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320172,
+            "zhiyuan": [
+                "D8",
+                "D15",
+                "D12",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320173,
+            "zhiyuan": [
+                "D3",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "paint",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320174,
+            "zhiyuan": [
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook",
+                "basketball"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320175,
+            "zhiyuan": [
+                "D15",
+                "D5",
+                "D14",
+                "D17",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320176,
+            "zhiyuan": [
+                "D20",
+                "D11",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Mon:10:20-12:00",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320177,
+            "zhiyuan": [
+                "D13",
+                "D5",
+                "D6",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320178,
+            "zhiyuan": [
+                "D5",
+                "D6",
+                "D3",
+                "D19",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "read"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320179,
+            "zhiyuan": [
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "swim",
+                "read",
+                "ride",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Sat:19:00-21:00",
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320180,
+            "zhiyuan": [
+                "D11",
+                "D17",
+                "D9",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "paint",
+                "dance",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Fri:14:00-15:40",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320181,
+            "zhiyuan": [
+                "D3",
+                "D11",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "dance",
+                "basketball",
+                "paint",
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320182,
+            "zhiyuan": [
+                "D12",
+                "D16",
+                "D19",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "swim",
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320183,
+            "zhiyuan": [
+                "D6",
+                "D15",
+                "D13",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "dance",
+                "swim",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00",
+                "Sun:14:00-15:40"
+            ],
+            "xuehao": 170320184,
+            "zhiyuan": [
+                "D6",
+                "D20",
+                "D12",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320185,
+            "zhiyuan": [
+                "D8",
+                "D18",
+                "D9",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "paint"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320186,
+            "zhiyuan": [
+                "D1",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "swim"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320187,
+            "zhiyuan": [
+                "D10",
+                "D9",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "swim",
+                "ride",
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320188,
+            "zhiyuan": [
+                "D4",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "dance"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Tue:19:00-21:00",
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320189,
+            "zhiyuan": [
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook",
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Fri:14:00-15:40",
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320190,
+            "zhiyuan": [
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "paint",
+                "read"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320191,
+            "zhiyuan": [
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "computer",
+                "swim",
+                "cook",
+                "ride"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320192,
+            "zhiyuan": [
+                "D5",
+                "D6",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "basketball",
+                "cook",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320193,
+            "zhiyuan": [
+                "D4",
+                "D16",
+                "D1",
+                "D7",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "swim",
+                "write",
+                "paint",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Wen:19:00-21:00",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320194,
+            "zhiyuan": [
+                "D17",
+                "D8",
+                "D14",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "read",
+                "cook"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Fri:19:00-21:00",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320195,
+            "zhiyuan": [
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320196,
+            "zhiyuan": [
+                "D3",
+                "D1",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Sat:16:00-17:40",
+                "Sat:8:20-10:00"
+            ],
+            "xuehao": 170320197,
+            "zhiyuan": [
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00"
+            ],
+            "xuehao": 170320198,
+            "zhiyuan": [
+                "D8",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320199,
+            "zhiyuan": [
+                "D5",
+                "D18",
+                "D7",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "paint"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320200,
+            "zhiyuan": [
+                "D9",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "write",
+                "paint",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320201,
+            "zhiyuan": [
+                "D13",
+                "D14",
+                "D19",
+                "D11",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00",
+                "Thu:10:20-12:00",
+                "Mon:10:20-12:00"
+            ],
+            "xuehao": 170320202,
+            "zhiyuan": [
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook",
+                "read",
+                "basketball",
+                "paint"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320203,
+            "zhiyuan": [
+                "D18",
+                "D16",
+                "D13",
+                "D15",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00",
+                "Fri:10:20-12:00",
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320204,
+            "zhiyuan": [
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Sat:14:00-15:40",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320205,
+            "zhiyuan": [
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Fri:16:00-17:40",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320206,
+            "zhiyuan": [
+                "D18",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook",
+                "dance",
+                "basketball",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40"
+            ],
+            "xuehao": 170320207,
+            "zhiyuan": [
+                "D4",
+                "D6",
+                "D7",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320208,
+            "zhiyuan": [
+                "D14",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "basketball",
+                "write",
+                "read"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00"
+            ],
+            "xuehao": 170320209,
+            "zhiyuan": [
+                "D7",
+                "D4",
+                "D6",
+                "D12",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "paint",
+                "ride",
+                "read",
+                "basketball"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320210,
+            "zhiyuan": [
+                "D19",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320211,
+            "zhiyuan": [
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "read",
+                "ride"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320212,
+            "zhiyuan": [
+                "D2",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "cook",
+                "paint",
+                "ride",
+                "dance"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320213,
+            "zhiyuan": [
+                "D14",
+                "D20",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "paint"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320214,
+            "zhiyuan": [
+                "D6",
+                "D14",
+                "D16",
+                "D11",
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "sing",
+                "read",
+                "swim"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320215,
+            "zhiyuan": [
+                "D10",
+                "D6",
+                "D4",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320216,
+            "zhiyuan": [
+                "D8",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00"
+            ],
+            "xuehao": 170320217,
+            "zhiyuan": [
+                "D17",
+                "D15",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320218,
+            "zhiyuan": [
+                "D13",
+                "D3",
+                "D17",
+                "D6",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "basketball",
+                "ride",
+                "computer",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Wen:10:20-12:00",
+                "Mon:10:20-12:00"
+            ],
+            "xuehao": 170320219,
+            "zhiyuan": [
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320220,
+            "zhiyuan": [
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320221,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "sing",
+                "dance",
+                "computer",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40",
+                "Sun:19:00-21:00",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320222,
+            "zhiyuan": [
+                "D19",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "read",
+                "dance"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320223,
+            "zhiyuan": [
+                "D5",
+                "D20",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "dance",
+                "basketball",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:14:00-15:40"
+            ],
+            "xuehao": 170320224,
+            "zhiyuan": [
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "dance",
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320225,
+            "zhiyuan": [
+                "D8",
+                "D18",
+                "D6",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40"
+            ],
+            "xuehao": 170320226,
+            "zhiyuan": [
+                "D16",
+                "D15",
+                "D2",
+                "D11",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "write",
+                "dance",
+                "read",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320227,
+            "zhiyuan": [
+                "D11",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "paint",
+                "cook",
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320228,
+            "zhiyuan": [
+                "D20",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "ride"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:14:00-15:40",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320229,
+            "zhiyuan": [
+                "D13",
+                "D7",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40",
+                "Mon:19:00-21:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320230,
+            "zhiyuan": [
+                "D19",
+                "D10",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "write",
+                "paint",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Sun:8:20-10:00",
+                "Fri:10:20-12:00"
+            ],
+            "xuehao": 170320231,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "sing",
+                "read",
+                "basketball"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Sat:10:20-12:00",
+                "Sat:19:00-21:00"
+            ],
+            "xuehao": 170320232,
+            "zhiyuan": [
+                "D13",
+                "D20",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320233,
+            "zhiyuan": [
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "write",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320234,
+            "zhiyuan": [
+                "D12",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40",
+                "Wen:10:20-12:00",
+                "Tue:10:20-12:00"
+            ],
+            "xuehao": 170320235,
+            "zhiyuan": [
+                "D6",
+                "D16",
+                "D8",
+                "D11",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "paint"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00"
+            ],
+            "xuehao": 170320236,
+            "zhiyuan": [
+                "D13",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "computer",
+                "ride",
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:16:00-17:40",
+                "Wen:14:00-15:40",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320237,
+            "zhiyuan": [
+                "D20",
+                "D14",
+                "D4",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320238,
+            "zhiyuan": [
+                "D15",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "ride",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Fri:10:20-12:00"
+            ],
+            "xuehao": 170320239,
+            "zhiyuan": [
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "sing"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320240,
+            "zhiyuan": [
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00"
+            ],
+            "xuehao": 170320241,
+            "zhiyuan": [
+                "D16",
+                "D9",
+                "D11",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "computer",
+                "swim",
+                "paint"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00",
+                "Wen:14:00-15:40",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320242,
+            "zhiyuan": [
+                "D10",
+                "D6",
+                "D5",
+                "D1",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00",
+                "Thu:19:00-21:00",
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320243,
+            "zhiyuan": [
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "basketball",
+                "swim",
+                "ride",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00",
+                "Fri:16:00-17:40",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320244,
+            "zhiyuan": [
+                "D16",
+                "D15",
+                "D10",
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320245,
+            "zhiyuan": [
+                "D1"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "basketball",
+                "sing"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00",
+                "Mon:16:00-17:40",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320246,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "ride",
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Mon:19:00-21:00",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320247,
+            "zhiyuan": [
+                "D5",
+                "D17"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40",
+                "Thu:8:20-10:00"
+            ],
+            "xuehao": 170320248,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:10:20-12:00",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320249,
+            "zhiyuan": [
+                "D6",
+                "D4",
+                "D20",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook",
+                "basketball",
+                "write",
+                "computer"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320250,
+            "zhiyuan": [
+                "D19",
+                "D8",
+                "D6",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320251,
+            "zhiyuan": [
+                "D3",
+                "D9",
+                "D17",
+                "D13",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "cook",
+                "swim",
+                "write",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320252,
+            "zhiyuan": [
+                "D17",
+                "D12",
+                "D1",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "dance",
+                "ride",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320253,
+            "zhiyuan": [
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "dance",
+                "sing"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:14:00-15:40",
+                "Tue:19:00-21:00",
+                "Mon:14:00-15:40"
+            ],
+            "xuehao": 170320254,
+            "zhiyuan": [
+                "D9",
+                "D11",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "cook",
+                "dance",
+                "ride",
+                "read"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sun:10:20-12:00"
+            ],
+            "xuehao": 170320255,
+            "zhiyuan": [
+                "D20",
+                "D4",
+                "D10",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "ride",
+                "cook",
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320256,
+            "zhiyuan": [
+                "D18",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "read",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:10:20-12:00"
+            ],
+            "xuehao": 170320257,
+            "zhiyuan": [
+                "D11",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320258,
+            "zhiyuan": [
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "computer",
+                "read",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Thu:14:00-15:40",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320259,
+            "zhiyuan": [
+                "D4",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:10:20-12:00",
+                "Wen:14:00-15:40",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320260,
+            "zhiyuan": [
+                "D2",
+                "D14",
+                "D5",
+                "D11",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "swim",
+                "sing"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Thu:8:20-10:00",
+                "Wen:10:20-12:00"
+            ],
+            "xuehao": 170320261,
+            "zhiyuan": [
+                "D12",
+                "D5",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "computer",
+                "cook",
+                "basketball"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Tue:16:00-17:40"
+            ],
+            "xuehao": 170320262,
+            "zhiyuan": [
+                "D9",
+                "D11",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "dance",
+                "read"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Sun:10:20-12:00",
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320263,
+            "zhiyuan": [
+                "D10"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "paint"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Thu:14:00-15:40",
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320264,
+            "zhiyuan": [
+                "D8",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:19:00-21:00",
+                "Fri:16:00-17:40"
+            ],
+            "xuehao": 170320265,
+            "zhiyuan": [
+                "D16",
+                "D11",
+                "D12",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "cook",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00",
+                "Tue:16:00-17:40",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320266,
+            "zhiyuan": [
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "read",
+                "write",
+                "paint",
+                "swim"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40",
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320267,
+            "zhiyuan": [
+                "D4",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "sing",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40"
+            ],
+            "xuehao": 170320268,
+            "zhiyuan": [
+                "D1",
+                "D18",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "dance",
+                "paint",
+                "ride"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:16:00-17:40",
+                "Mon:19:00-21:00",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320269,
+            "zhiyuan": [
+                "D16",
+                "D15",
+                "D5",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320270,
+            "zhiyuan": [
+                "D10",
+                "D11",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "cook",
+                "basketball",
+                "dance",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320271,
+            "zhiyuan": [
+                "D9",
+                "D3",
+                "D4",
+                "D1",
+                "D7"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "dance",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320272,
+            "zhiyuan": [
+                "D17",
+                "D6",
+                "D4",
+                "D1",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "computer",
+                "write",
+                "swim",
+                "sing"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Mon:8:20-10:00"
+            ],
+            "xuehao": 170320273,
+            "zhiyuan": [
+                "D4",
+                "D17",
+                "D6",
+                "D11",
+                "D3"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "paint",
+                "write"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Tue:14:00-15:40",
+                "Mon:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320274,
+            "zhiyuan": [
+                "D4",
+                "D17",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "write",
+                "basketball"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Sun:19:00-21:00",
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320275,
+            "zhiyuan": [
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "cook",
+                "basketball",
+                "computer"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sun:19:00-21:00",
+                "Fri:16:00-17:40",
+                "Wen:14:00-15:40"
+            ],
+            "xuehao": 170320276,
+            "zhiyuan": [
+                "D13",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "write"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00",
+                "Thu:14:00-15:40"
+            ],
+            "xuehao": 170320277,
+            "zhiyuan": [
+                "D9",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "sing"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Wen:16:00-17:40",
+                "Tue:8:20-10:00",
+                "Mon:16:00-17:40"
+            ],
+            "xuehao": 170320278,
+            "zhiyuan": [
+                "D20",
+                "D18",
+                "D13",
+                "D8",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "ride",
+                "dance",
+                "basketball",
+                "cook",
+                "sing"
+            ],
+            "jidian": 2,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Wen:19:00-21:00"
+            ],
+            "xuehao": 170320279,
+            "zhiyuan": [
+                "D18",
+                "D19",
+                "D10",
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "basketball",
+                "swim"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320280,
+            "zhiyuan": [
+                "D16",
+                "D15",
+                "D9",
+                "D2",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "swim",
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Fri:16:00-17:40",
+                "Wen:10:20-12:00",
+                "Thu:16:00-17:40"
+            ],
+            "xuehao": 170320281,
+            "zhiyuan": [
+                "D1",
+                "D7",
+                "D6",
+                "D8"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:8:20-10:00",
+                "Thu:19:00-21:00"
+            ],
+            "xuehao": 170320282,
+            "zhiyuan": [
+                "D7",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00",
+                "Sat:8:20-10:00"
+            ],
+            "xuehao": 170320283,
+            "zhiyuan": [
+                "D10",
+                "D4"
+            ]
+        },
+        {
+            "biaoqian": [
+                "write",
+                "basketball",
+                "swim",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:8:20-10:00"
+            ],
+            "xuehao": 170320284,
+            "zhiyuan": [
+                "D2",
+                "D19"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320285,
+            "zhiyuan": [
+                "D1",
+                "D7",
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance",
+                "ride",
+                "computer",
+                "basketball"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:10:20-12:00",
+                "Thu:10:20-12:00"
+            ],
+            "xuehao": 170320286,
+            "zhiyuan": [
+                "D1",
+                "D6",
+                "D5"
+            ]
+        },
+        {
+            "biaoqian": [
+                "read",
+                "basketball",
+                "cook",
+                "sing",
+                "paint"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:14:00-15:40",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320287,
+            "zhiyuan": [
+                "D16"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "swim",
+                "dance"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00",
+                "Fri:14:00-15:40"
+            ],
+            "xuehao": 170320288,
+            "zhiyuan": [
+                "D14",
+                "D4",
+                "D17",
+                "D15",
+                "D11"
+            ]
+        },
+        {
+            "biaoqian": [
+                "cook",
+                "read",
+                "computer",
+                "write",
+                "sing"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Sat:16:00-17:40"
+            ],
+            "xuehao": 170320289,
+            "zhiyuan": [
+                "D7",
+                "D20"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "cook",
+                "write",
+                "ride"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00",
+                "Thu:19:00-21:00",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320290,
+            "zhiyuan": [
+                "D11",
+                "D20",
+                "D12",
+                "D15"
+            ]
+        },
+        {
+            "biaoqian": [
+                "computer"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Tue:8:20-10:00"
+            ],
+            "xuehao": 170320291,
+            "zhiyuan": [
+                "D10",
+                "D13",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "read",
+                "dance",
+                "computer",
+                "ride"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320292,
+            "zhiyuan": [
+                "D14"
+            ]
+        },
+        {
+            "biaoqian": [
+                "dance"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:19:00-21:00",
+                "Fri:19:00-21:00"
+            ],
+            "xuehao": 170320293,
+            "zhiyuan": [
+                "D3",
+                "D15",
+                "D9"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "read",
+                "ride",
+                "cook"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320294,
+            "zhiyuan": [
+                "D16",
+                "D12"
+            ]
+        },
+        {
+            "biaoqian": [
+                "swim",
+                "read",
+                "ride",
+                "dance"
+            ],
+            "jidian": 5,
+            "kongxian_shijian": [
+                "Sat:19:00-21:00",
+                "Mon:8:20-10:00",
+                "Sun:16:00-17:40"
+            ],
+            "xuehao": 170320295,
+            "zhiyuan": [
+                "D12",
+                "D14",
+                "D7",
+                "D17",
+                "D13"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "cook"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Mon:19:00-21:00"
+            ],
+            "xuehao": 170320296,
+            "zhiyuan": [
+                "D2"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "basketball"
+            ],
+            "jidian": 4,
+            "kongxian_shijian": [
+                "Sun:8:20-10:00"
+            ],
+            "xuehao": 170320297,
+            "zhiyuan": [
+                "D13",
+                "D5",
+                "D15",
+                "D17",
+                "D18"
+            ]
+        },
+        {
+            "biaoqian": [
+                "sing",
+                "read",
+                "swim",
+                "basketball",
+                "write"
+            ],
+            "jidian": 1,
+            "kongxian_shijian": [
+                "Thu:16:00-17:40",
+                "Tue:19:00-21:00"
+            ],
+            "xuehao": 170320298,
+            "zhiyuan": [
+                "D14",
+                "D11",
+                "D6"
+            ]
+        },
+        {
+            "biaoqian": [
+                "paint",
+                "computer",
+                "ride"
+            ],
+            "jidian": 3,
+            "kongxian_shijian": [
+                "Wen:14:00-15:40",
+                "Sun:14:00-15:40",
+                "Fri:8:20-10:00"
+            ],
+            "xuehao": 170320299,
+            "zhiyuan": [
+                "D10",
+                "D11",
+                "D18"
+            ]
+        }
+    ]
+}
